@@ -1,0 +1,2 @@
+
+This repository contains the scripts and data required to analyse the data for Straub et al. 2021 "The contemporary AMR landscape of Neisseria gonorrhoea in New Zealand in 2018/2019 and the role of MSM in transmission"
