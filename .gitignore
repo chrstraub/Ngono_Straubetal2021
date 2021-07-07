@@ -1,2 +1,4 @@
 *.DS_Store
 .git_ignore
+R_analysis/input/metadata_TableS5.csv
+bash_analysis/input/pop_call_raw.vcf
