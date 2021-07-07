@@ -101,8 +101,8 @@ cut -f1 -d$'\t' results_final.txt | sort | uniq -c | wc -l
 ## SNP calling & filtering
 ### **SNP calling workflow:**   
 A snakemake workflow for mapping reads to a reference and SNP calling. 
-see `SNP_workflow/`
-1) index reference FA1090
+see `https://github.com/chrstraub/SNP_calling_workflow`
+1) index reference N. gonorrhoeae reference FA1090
 2) map with bwa to reference
 3) convert sam to bam
 4) sort bam
